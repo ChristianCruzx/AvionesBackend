@@ -9,6 +9,9 @@ package Logic;
  *
  * @author Chris
  */
+
+//nuevos comentarios
+
 public class TipoAvion {
     
     private String id_tipoAvion;
